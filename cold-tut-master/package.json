@@ -1,12 +1,12 @@
 {
-  "name": "Delton Hotels Bot",
+  "name": "DeltonHotelsBot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Zendovo",
+  "author": "CoIdInfinity",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2"
